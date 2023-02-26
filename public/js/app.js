@@ -1,6 +1,4 @@
-console.log('Client side Javascript is loaded!');
 
-const insideLife = document.querySelector('whoGoes')
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
